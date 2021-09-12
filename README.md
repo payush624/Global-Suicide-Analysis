@@ -13,7 +13,12 @@
       Suicide Analysis Dashboard Power BI.pbix
 
 ### Visualization
-![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/suicide_by_age_grp.PNG)
+
+#### Suicide over year
+![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/suicide_over_year.PNG)
+
+#### Suicide by Age Group
+![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/Suicide_by_age_group.PNG)
 
 
 ### Findings
