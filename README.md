@@ -9,10 +9,10 @@
  
 ### File Explanation    
 #### The main file is 
-    [Global Suicides](#https://github.com/payush624/Global-Suicide-Analysis/blob/main/global%20Suicides.ipynb)
+    [Global Suicides](https://github.com/payush624/Global-Suicide-Analysis/blob/main/global%20Suicides.ipynb)
     
 #### The final Dashboard visualization file is
-     [Suicide Analysis Dashboard Power BI](#https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+     [Suicide Analysis Dashboard Power BI](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ### Visualization
 
@@ -32,5 +32,6 @@
 #####     4. We can see that high GDP per capita does not immediately translate to a higher happiness index and less suicide cases. This tells us that it is certain              that the richer is not necessarily the happiest. Therefore, besides income, there must be other important factors that leds people to take this step,                but from above analysis it can be concluded that country with lesser population and higher GDP per capita has less suicide cases.
 
         
+    [a link](https://github.com/payush624/Global-Suicide-Analysis)
     
 
