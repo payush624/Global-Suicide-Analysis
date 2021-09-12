@@ -20,6 +20,8 @@
 #### Suicide by Age Group
 ![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/Suicide_by_age_group.PNG)
 
+#### Suicide count by country
+![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/noof_cases_in_each_country.PNG)
 
 ### Findings
 #####     1. More than 200 000 people died due to suicide every year between 1985-2016.
