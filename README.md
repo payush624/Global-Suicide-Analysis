@@ -11,7 +11,11 @@
       global Suicides.ipynb
 #### The final Dashboard visualization file is
       Suicide Analysis Dashboard Power BI.pbix
-    
+
+### Visualization
+![alt text](https://github.com/payush624/Global-Suicide-Analysis/blob/main/suicide_by_age_grp.PNG)
+
+
 ### Findings
 #####     1. More than 200 000 people died due to suicide every year between 1985-2016.
 #####     2. Suicide is the fourth leading cause of death in 35-54 year olds. 
