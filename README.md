@@ -6,11 +6,13 @@
 ######    This dataset was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.The dataset contains yearly suicide detail of different countries by various parameters from 1985 to 2016.This data contains information about countries and no of suicide in that country for particular year.
 
 ### [Global dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+ 
 ### File Explanation    
 #### The main file is 
-      [Global Suicides](https://github.com/payush624/Global-Suicide-Analysis/blob/main/global%20Suicides.ipynb)
+    [Global Suicides](#https://github.com/payush624/Global-Suicide-Analysis/blob/main/global%20Suicides.ipynb)
+    
 #### The final Dashboard visualization file is
-      [Suicide Analysis Dashboard Power BI](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+     [Suicide Analysis Dashboard Power BI](#https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ### Visualization
 
