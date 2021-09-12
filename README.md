@@ -8,9 +8,9 @@
 ### [Global dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 ### File Explanation    
 #### The main file is 
-      global Suicides.ipynb
+      [Global Suicides](https://github.com/payush624/Global-Suicide-Analysis/blob/main/global%20Suicides.ipynb)
 #### The final Dashboard visualization file is
-      Suicide Analysis Dashboard Power BI.pbix
+      [Suicide Analysis Dashboard Power BI](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ### Visualization
 
